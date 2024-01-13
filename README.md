@@ -1,2 +1,6 @@
 # Lawnmower
-poggers
+A simple little game about mowing lawns.
+
+!DISCLAIMER!
+
+THIS CODE IS ACTUALLY TERRIBLE, NEVER EVER TRY WRITE CODE LIKE THIS! I MEAN HAVE YOU SEEN THE VARIABLE NAMES???? SUS? JOE_MAMA??
